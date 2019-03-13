@@ -1,0 +1,5 @@
+*target/classes/App.class
+*target/test-classes/AppTest.class
+*.classpath
+target1
+/target/
